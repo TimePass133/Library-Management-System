@@ -1,4 +1,4 @@
-#Library Management System
+### Library Management System
 
 A robust, Command-Line Interface (CLI) based Library Management System built with Python and SQLite3. This application allows librarians to efficiently manage book inventories, organize bookshelves, track library members, and handle the issuing and returning of books (including automated fine calculations).
 
